@@ -1,0 +1,15 @@
+tr = table row
+th = table heading
+td = table data
+thead => table heading
+tbody = table body
+
+a = anchor tag to create link
+href (attribute) = browser link
+
+src = source
+width & height attributes
+
+li => list
+ul => unordered list
+ol => ordered list

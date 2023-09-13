@@ -1,0 +1,55 @@
+h1 => HTML tag || HTML element
+class, id => attributes
+
+self-closing tag
+
+hr = horizontal line
+
+<p></p> => HTML element
+<br /> => self-closing tag
+
+
+6.9.23
+
+web title 
+boiler or start up template (!)
+headings
+line break tags
+breakdown of HTML tags
+b => bold tag
+del => delete tag
+del = strike
+strong tag
+pre tag
+i tag
+u tag
+span tag
+sub => subscript tag
+sup => super script tag
+
+text takhu ko modify loke chin yin span nk wrap loke
+
+9.9.23
+
+quotation tags (bdo, cite, q)
+comment (ctrl + /)
+table 
+hyper links
+img
+
+hw => iframe
+
+R&D => research & development
+
+
+13.9.2023
+
+ins tag
+s tag
+details and summary
+select & option
+datalist tag
+ol tag
+li tag
+ul tag
+input tag
