@@ -13,3 +13,7 @@ width & height attributes
 li => list
 ul => unordered list
 ol => ordered list
+
+if we use radio inputs, we need to give the same name to all the inputs but different values.
+
+separation of concern.
