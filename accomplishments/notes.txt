@@ -17,3 +17,19 @@ ol => ordered list
 if we use radio inputs, we need to give the same name to all the inputs but different values.
 
 separation of concern.
+
+
+block level elements  => headings
+
+
+    CSS
+3 types of CSS
+
+1. internal
+2. inline
+3. external
+
+Selectors 
+
+1. id Selector
+2. class selector

@@ -56,3 +56,11 @@ input tag
 
 15.9.2023
 form tag
+
+20.9.2023
+
+started CSS
+id & class Selectors
+font styles
+margins 
+flexbox
