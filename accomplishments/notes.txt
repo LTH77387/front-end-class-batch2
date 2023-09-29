@@ -33,3 +33,14 @@ Selectors
 
 1. id Selector
 2. class selector
+
+justify content
+
+1. center
+2. flex-start
+3. flex-end
+4. space-around
+5. space-between
+
+apyin ka nay atwin ko hlan kan yin  margin
+atwin htl ka ny apyin ko hlan kan yin padding
