@@ -1,0 +1,12 @@
+Buttons
+
+- btn btn-primary
+- btn btn-secondary
+- btn btn-warning
+- btn btn-info
+- btn btn-danger
+- btn btn-light
+- btn btn-dark
+- btn btn-success
+
+- btn btn-outline-info
