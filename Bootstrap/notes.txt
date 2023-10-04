@@ -10,3 +10,7 @@ Buttons
 - btn btn-success
 
 - btn btn-outline-info
+
+default is flex direction is row.
+In flex direction row, justify content works horizontally and align atems works vertically.
+In flex direction column, justify content works vertically and align items works horizontally.
