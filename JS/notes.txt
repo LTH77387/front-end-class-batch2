@@ -1,0 +1,21 @@
+naming conventions
+
+normal => user
+camelCase => userName
+PascalCase => WriteLine
+snake_case => user_name
+
+data types
+
+integer => int
+string => string
+float => float
+dobule
+long
+boolean => bool 
+
+= is assignment operator
+
+initialize
+
+sum
