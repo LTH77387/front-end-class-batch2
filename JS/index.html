@@ -1,26 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
-<body>
-   <script>
-    var name = "Min Thant Kyaw";
+  </head>
+  <body>
+    <script>
+      //   if (today == "Monday") {
+      //     console.info("today is Monday!");
+      //   } else if (today == "Tuesday") {
+      //     console.info("today is Tuesday!");
+      //   } else if (today == "Wednesday") {
+      //     console.info("today is Wednesday!");
+      //   } else if (today == "Thursday") {
+      //     console.info("today is Thursday!");
+      //   } else if (today == "Friday") {
+      //     console.info("today is Friday!");
+      //   } else if (today == "Saturday") {
+      //     console.info("today is Saturday!");
+      //   } else {
+      //     console.info("today is Sunday!");
+      //   }
 
-    // function greeting() { // function definition
-    //     name = "Leo"; // lcoal var
-    //     console.log(name);
-    // }
+      let today = "testing";
+      switch (today) {
+        case "Monday":
+          console.info("today is Monday!");
+          break;
+        case "Tuesday":
+          console.info("today is Tuesday!");
+          break;
+        case "Wednesday":
+          console.info("today is Wednesday!");
+          break;
+        case "Thursday":
+          console.info("today is Thursday!");
+          break;
+        case "Friday":
+          console.info("today is Friday!");
+          break;
+        case "Saturday":
+          console.info("today is Saturday");
+          break;
+        case "Sunday":
+          console.info("today is Sunday!");
+          break;
+        default: // else
+          console.info("Invalid Date!");
+          break;
+      }
 
-    let greeting = () => { //ES 6
-        name = "Leo"; // lcoal var
-        console.log(name);
-    }
-   
-    console.log("name",name); // default value
-    greeting(); // function calling
-   </script>
-</body>
+      let a = 1;
+    //   if(a > 0){
+    //     console.info("a is greater than 0.");
+    //   }else {
+    //     console.info("a is less than 0.");
+    //   }
+
+      a > 0 ? console.info("a is greater than 0.") : console.info("a is less than 0.");
+      a > 0 && console.info("a is greater than 0.");
+
+
+    </script>
+  </body>
 </html>

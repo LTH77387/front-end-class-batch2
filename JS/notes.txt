@@ -19,3 +19,22 @@ boolean => bool
 initialize
 
 sum
+
+operators
+
+x++ 
+x = x+1;
+x += 1;
+x -= 1; (x=x-1)
+
+1. Arithmetic operators => +, -, *, /, %,  **, ++ (incremental), --(decremental)
+2. Assignment operators => =, +=, -=, /=, %=, **=
+3. Comparison operators => >, <, >=, <=, ==, ===, !=
+
+4. Logical operators => &&, ||, !
+5. Ternary operator => ?
+
+Objects
+
+property & property values
+objectName.propertyName or objectName["propertyName"]
